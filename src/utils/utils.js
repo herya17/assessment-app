@@ -1,0 +1,52 @@
+// const data = {
+//   aspek_penilaian_1: {
+//     mahasiswa_1: '',
+//     mahasiswa_2: '',
+//     mahasiswa_3: '',
+//     mahasiswa_4: '',
+//     mahasiswa_5: '',
+//     mahasiswa_6: '',
+//     mahasiswa_7: '',
+//     mahasiswa_8: '',
+//     mahasiswa_9: '',
+//     mahasiswa_1: '',
+//   },
+//   aspek_penilaian_2: {
+//     mahasiswa_1: '',
+//     mahasiswa_2: '',
+//     mahasiswa_3: '',
+//     mahasiswa_4: '',
+//     mahasiswa_5: '',
+//     mahasiswa_6: '',
+//     mahasiswa_7: '',
+//     mahasiswa_8: '',
+//     mahasiswa_9: '',
+//     mahasiswa_1: '',
+//   },
+//   aspek_penilaian_3: {
+//     mahasiswa_1: '',
+//     mahasiswa_2: '',
+//     mahasiswa_3: '',
+//     mahasiswa_4: '',
+//     mahasiswa_5: '',
+//     mahasiswa_6: '',
+//     mahasiswa_7: '',
+//     mahasiswa_8: '',
+//     mahasiswa_9: '',
+//     mahasiswa_1: '',
+//   },
+//   aspek_penilaian_4: {
+//     mahasiswa_1: '',
+//     mahasiswa_2: '',
+//     mahasiswa_3: '',
+//     mahasiswa_4: '',
+//     mahasiswa_5: '',
+//     mahasiswa_6: '',
+//     mahasiswa_7: '',
+//     mahasiswa_8: '',
+//     mahasiswa_9: '',
+//     mahasiswa_1: '',
+//   }
+// };
+
+// export default data;
